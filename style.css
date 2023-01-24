@@ -6,11 +6,18 @@ body{
     display: flex;
     margin-left: 5%;
     margin-right: 5%;
-    /* padding-left: 5%; */
-    /* justify-content:space-around; */
+    padding-top: 20px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.header-left{
+    padding-right: 100px;
 }
 .header-right img{
-    width: 100%;
+    width: 70%;
 }
 .text-center{
     text-align: center;
@@ -18,11 +25,11 @@ body{
 .img-part img{
     width: 100%;
 }
-.division{
-padding-top: 150px;
-justify-content: space-around;
-}
 .text-part{
-    padding: 5px;
-    border: 5px solid blue;
+    padding: 10px;
+    box-shadow: 10px 10px 20px gray;
+}
+.each-div{
+    margin-right: 20px;
+    margin-bottom: 50px;
 }
