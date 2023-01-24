@@ -33,3 +33,17 @@ body{
     margin-right: 20px;
     margin-bottom: 50px;
 }
+.btn button{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+    font-size: 17px;
+    transition: 1.5s;
+}
+.btn button:hover{
+    color: black;
+    background-color: aqua;
+    cursor: pointer;
+}
