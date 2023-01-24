@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    /* padding-left: 5%; */
+    justify-content:space-around;
+}
+.header-right img{
+    width: 100%;
+}
+.text-center{
+    text-align: center;
+}
